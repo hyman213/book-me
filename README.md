@@ -2,6 +2,10 @@
 
 ## 工具类
 
+### 开发类
+
+* [Web开发中很实用的10个效果源码](https://www.cnblogs.com/lhb25/p/10-useful-web-effect.html)
+
 
 
 ## 项目类
